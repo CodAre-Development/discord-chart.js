@@ -1,0 +1,29 @@
+{
+  "name": "discord-chart.js",
+  "version": "0.0.1",
+  "description": "discord-chart.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+   "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "ejs": "^3.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/CodAre-Development/discord-chart.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Furtsy",
+    "CodAre",
+    "chart.js"
+  ]
+}
